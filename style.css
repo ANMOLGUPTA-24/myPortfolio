@@ -1,0 +1,102 @@
+*{
+  padding: 10px 36px 10px 36px;
+  margin: 0;  
+  color: azure;  
+
+}
+h1{
+    color:azure;
+    text-align: center;
+}
+
+
+h4{
+    color:beige;
+    font-size: xx-large;
+}
+h5{
+    color:beige;
+}
+
+body{
+    background-color: black;
+}
+
+footer{
+    color: beige;
+    background-color: black;
+}
+#name{
+    color: #F1EDEE;
+    font-size: xx-large;
+    line-height: normal;
+    font-size: 80px;
+    font-weight: 900;
+    /* padding: auto; */
+    /* text-align: center; */
+    display: inline-block;
+    padding: 20px 50px 60px 150px;
+    margin-top: 0px;
+}
+#photo{
+    border-radius: 10%;
+    /* border-style: solid;
+    border-color: black; */
+    margin: 100px 20px 0px 190px;
+    height: 250px;
+}
+#linkedin, #GitHub, #leetcode{
+    margin-right: 15px;
+}
+#linkedin{
+    padding-left: 60px;
+}
+div{
+    text-align: left;
+}
+#navbar{
+    height: 200px;
+    /* width: 100px; */
+    background-color: #000000;
+    color: #bcadad;
+    text-decoration: none;
+    display: inline;
+}
+header{
+    border: white 2px solid;
+    /* margin-bottom: 30px; */
+}
+a{
+    font-weight: 700 ;
+    font-size: 30px;
+    margin-right: 100px;
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+    height: 30px;
+    /* margin-bottom: 31px; */
+}
+#contact{
+    margin-right: 0px;
+    text-align: right;
+}
+.skills{
+    font-size: 30px;
+    padding: 10px 36px 10px 36px;
+}
+main{
+    padding: 10px 36px;
+}
+input, textarea{
+    background-color: black;
+    color: beige;
+    font-size: large;
+    border: 2px solid beige;
+    border-radius: 8px;
+    padding: 10px 24px;
+    cursor: pointer;
+}
+#name {
+  position: relative;
+  top: -10px; /* move upward slightly */
+}
